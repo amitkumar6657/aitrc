@@ -1,3 +1,5 @@
+#code for calculator
+#developed by shinde333
 print("HELLO-PUNE")
 print("BYE")
 
