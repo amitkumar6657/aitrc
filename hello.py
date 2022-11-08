@@ -1,5 +1,5 @@
 print("HELLO")
 print("BYE")
 
-print(10+10)
-print(22-12)
+print("ADDITION IS:",10+10)
+print("SUBTRACTION IS:", 22-12)
